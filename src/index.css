@@ -353,6 +353,10 @@ body {
             @apply absolute top-0 right-0 pointer-events-none hidden lg:block;
         }
 
+        #l-right-drink{
+            @apply absolute bottom-0 right-0 pointer-events-none lg:w-fit w-1/4;
+        }
+
         .content {
             @apply container mx-auto lg:py-14 2xl:py-32 py-16 flex flex-col justify-between gap-10 min-h-dvh;
 
