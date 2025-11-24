@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
+    <a href="https://mojito-landing-gsap.vercel.app/" target="_blank">
       <img src="public/readme/poster.png" alt="Project Banner">
     </a>
   <br />
